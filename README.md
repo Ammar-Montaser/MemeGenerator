@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" id="title">Meme Generator</h1>
 
-## Getting Started
+<p id="description">This project is a simple Meme Generator application which fetches meme data from a public api then allows users to add text on top of the meme.</p>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+<h2>🚀 Demo</h2>
+
+[https://meme-generator-ammar.netlify.app](https://meme-generator-ammar.netlify.app)
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.postimg.cc/ZnZgfc4x/temp-Image2lg2lc.avif" alt="project-screenshot" width="100%" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Generates random meme templates from a public API
+*   Edit meme images with top text and bottom text
+
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone the repo navigate to the directory and run</p>
+
+```
+npm install npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>2. visit http://localhost:3000 to see it in action!</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000 
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<h2>🍰 Contribution Guidelines:</h2>
 
-## Learn More
+Pull requests are welcome! Please open an issue first to discuss any changes or additions.
 
-To learn more about Next.js, take a look at the following resources:
+  
+  
+<h2>💻 Built with</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies used in the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+*   React - Component based UI framework
+*   Tailwind - CSS preprocessor for scalable styles
+*   Next JS - Next gen build tool for lightning fast dev server
+*   Netlify - Free Hosting
 
-## Deploy on Vercel
+<h2>🛡️ License:</h2>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the Distributed under the MIT license.
